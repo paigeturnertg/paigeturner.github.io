@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Paige Turner</title>
+    <link>https://paigeturnertg.github.io/posts/</link>
+    <description>Recent content in Posts on Paige Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://paigeturnertg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My New Site</title>
+      <link>https://paigeturnertg.github.io/posts/first-update/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://paigeturnertg.github.io/posts/first-update/</guid>
+      
+        <description>&lt;p&gt;I&amp;rsquo;m setting up this site to create a central hub for my fiction. Going forward, I&amp;rsquo;ll post updates here whenever I publish a new chapter or story.&lt;/p&gt;
+&lt;p&gt;In the meantime, you can find my work on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fictionmania.tv/&#34;&gt;Fictionmania&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tgstorytime.com/&#34;&gt;TG Storytime&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned for more updates!&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
